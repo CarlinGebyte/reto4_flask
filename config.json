@@ -1,0 +1,6 @@
+{
+  "dev": "localhost",
+  "port": 3002,
+  "mongo-string": "mongodb+srv://CarlinGebyte:0Au7C4c1v6@cluster0.0ksyp.mongodb.net/?retryWrites=true&w=majority",
+  "db": "reto4-flask"
+}
